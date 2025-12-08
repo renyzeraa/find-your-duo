@@ -15,14 +15,11 @@ Aplicação mobile e desktop para se cadastrar e procurar amigos para jogar o me
 -   Express
 -   TypeScript
 
-## Layout e preview
-
-[figma](https://www.figma.com/community/file/1150897317533332617/nlw-esports)
-[Instalando Expo Go](https://efficient-sloth-d85.notion.site/Instalando-Expo-9b0abcb12bd548278e042d00fbde67f2)
-
 ## Como rodar os projetos localmente
 
 **mobile**
+
+Primeiro [instalando Expo Go](https://efficient-sloth-d85.notion.site/Instalando-Expo-9b0abcb12bd548278e042d00fbde67f2)
 
 ```bash
 cd ./find-your-duo/mobile
@@ -42,7 +39,9 @@ cd ./find-your-duo/server
 npm run dev
 ```
 
-## Preview do projeto
+## Layout e preview
+
+[figma](https://www.figma.com/community/file/1150897317533332617/nlw-esports)
 
 Mobile
 
